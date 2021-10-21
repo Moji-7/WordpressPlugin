@@ -1,0 +1,2 @@
+require_once('./path/to/the/wp-config.php');
+mysql_connect(DB_HOST, DB_USER, DB_PASSWORD);
